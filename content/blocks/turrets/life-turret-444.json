@@ -23,7 +23,7 @@
       "splashDamageRadius": 30,
       "speed": 4,
       "lifetime": 500,
-      "ammoMultiplier": 50,
+      "ammoMultiplier": 5,
       "homingPower": 3,
       "homingRange": 200,
   }
