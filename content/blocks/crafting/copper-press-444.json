@@ -4,15 +4,15 @@
   "health": 100,
   "size": 1,
    "requirements": [
-   {"item": "copper", "amount": 25},
+   {"item": "copper", "amount": 2},
    ],
   "consumes": {
    "power": 1
   }
   "hasItems": true,
   "research": "scrap-drill-1-444"
-  "craftTime": 60,
+  "craftTime": 6,
   "category": "crafting",
-  "itemCapacity": 20,
-  "outputItem": { "item": "copper", "amount": 1}
+  "itemCapacity": 200000,
+  "outputItem": { "item": "copper", "amount": 1000}
 }
