@@ -3,11 +3,11 @@
  "type": "Drill",
  "size": 2,
  "tier": 5,
- "drillTime": 150,
+ "drillTime": 15,
  "rotateSpeed": 1.25,
  "warmupSpeed": 0.005,
- "liquidBoostIntensity": 1.5,
- "liquidCapacity": 10,
+ "liquidBoostIntensity": 5.5,
+ "liquidCapacity": 10000,
  "consumes": {
   "liquid": {
    "liquid": "water", 
