@@ -6,24 +6,24 @@
  "requirements": [
         {"item": "copper", "amount": 100},
         {"item": "lead", "amount": 50},
-        {"item": "silicon", "amount": 50}
+        {"item": "silicon", "amount": 0}
  ],
  "targetAir": true,
  "targetGround": true,
- "reload": 12,
- "range": 200,
+ "reload": 8,
+ "range": 350,
  "shootCone": 1,
- "rotateSpeed": 6,
+ "rotateSpeed": 8,
  "shootSound": "none",
  "ammoTypes": {
   "lead": {
    "type": "SapBulletType",
-      "damage": 20,
+      "damage": 290,
       "pierceArmor": true,
-      "ammoMultiplier": 5,
-      "length": 200,
+      "ammoMultiplier": 50,
+      "length": 355,
       "width": 1,
-      "lifetime": 20,
+      "lifetime": 30,
       "color": "bc5452",
       "hitColor": "bc5452",
   }
