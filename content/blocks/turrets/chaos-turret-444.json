@@ -20,7 +20,7 @@
    "type": "SapBulletType",
       "damage": 290,
       "pierceArmor": true,
-      "ammoMultiplier": 50,
+      "ammoMultiplier": 4,
       "length": 355,
       "width": 1,
       "lifetime": 30,
