@@ -1,22 +1,22 @@
 {
  "type": "GenericCrafter",
  "name": "simple processor crafter",
- "size": 2,
+ "size": 1,
  "health": 100,
  "category": "crafting",
  "hasItems": true,
  "requirements": [
-    {"item": "copper", "amount": 50},
-    {"item": "lead", "amount": 20},
+    {"item": "copper", "amount": 5},
+    {"item": "lead", "amount": 2},
     ],
  "consumes": {
     "items": [
      {"item": "copper", "amount": 1},
-     {"item": "lead", "amount": 2},
+     {"item": "lead", "amount": 0},
     ]
    }
- "craftTime": 60,
- "itemCapacity": 20,
- "outputItem": { "item": "processor-1-444", "amount": 1}
+ "craftTime": 30,
+ "itemCapacity": 20000,
+ "outputItem": { "item": "processor-1-444", "amount": 1000}
  "research": "mechanical-drill"
 }
