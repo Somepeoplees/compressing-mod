@@ -8,12 +8,12 @@
    {"item": "silicon", "amount": 20},
    ],
   "consumes": {
-   "power": 3
+   "power": 1
    }
   "hasItems": true,
   "research": "lead-press-444"
-  "craftTime": 60,
+  "craftTime": 6,
   "category": "crafting",
-  "itemCapacity": 20,
-  "outputItem": { "item": "titanium", "amount": 1}
+  "itemCapacity": 2000000,
+  "outputItem": { "item": "titanium", "amount": 10000}
 }
